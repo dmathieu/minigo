@@ -23,4 +23,4 @@ See, for example `http://minigo.herokuapp.com/snqDQ3q8TSIa5sWLTs9lfw` ([link](ht
 * Damien MATHIEU ([github/dmathieu](http://github.com/dmathieu), [dmathieu.com](http://dmathieu.com))
 
 ## License
-MIT License. Copyright 2011 Damien MATHIEU
+MIT License. Copyright 2013 Damien MATHIEU
