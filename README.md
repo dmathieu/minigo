@@ -11,6 +11,8 @@ You will then see the slug generated for your URI.
 
 Go to your app's URI `/yourslug`. And you will be redirected to the URI you specified
 
+See, for example `http://minigo.herokuapp.com/snqDQ3q8TSIa5sWLTs9lfw` ([link](http://minigo.herokuapp.com/snqDQ3q8TSIa5sWLTs9lfw)), which redirects to dmathieu.com
+
 ## Perks
 
 * There is no unicity validation for now. In case a URL gets the same slug as an other one (that's highly improbable though), you might not get redirected to the right place
